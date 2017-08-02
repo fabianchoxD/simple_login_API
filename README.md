@@ -27,7 +27,7 @@ in postman (POST) - http://localhost:3000/register
   "firstname" : "testName",
   "lastname" : "testLastName"
 }
-
+```
 you will get a 200 OK confirmation code.
 
 - - - -
@@ -41,7 +41,7 @@ in postman (POST) - http://localhost:3000/login
   "username" : "test",
   "password" : "123"
 }
-
+```
 you will get a 200 OK confirmation code.
 
 - - - -
